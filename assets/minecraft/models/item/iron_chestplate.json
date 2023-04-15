@@ -14,6 +14,12 @@
       }
     },
     {
+      "model": "pillow:item/iron_chestplate_coal_block_trim",
+      "predicate": {
+        "trim_type": 0.16
+      }
+    },
+    {
       "model": "minecraft:item/iron_chestplate_iron_darker_trim",
       "predicate": {
         "trim_type": 0.2

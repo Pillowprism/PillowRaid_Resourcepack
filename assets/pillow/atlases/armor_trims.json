@@ -4,7 +4,8 @@
             "type": "paletted_permutations",
             "palette_key": "pillow:trims/color_palettes/trim_palette",
             "permutations": {
-                "white_stained_glass": "pillow:trims/color_palettes/white_stained_glass"
+                "white_stained_glass": "pillow:trims/color_palettes/white_stained_glass",
+                "coal_block": "pillow:trims/color_palettes/coal_block"
             }
         }
     ]

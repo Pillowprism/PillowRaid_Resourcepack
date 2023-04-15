@@ -14,6 +14,12 @@
       }
     },
     {
+      "model": "pillow:item/chainmail_leggings_coal_block_trim",
+      "predicate": {
+        "trim_type": 0.16
+      }
+    },
+    {
       "model": "minecraft:item/chainmail_leggings_iron_trim",
       "predicate": {
         "trim_type": 0.2
