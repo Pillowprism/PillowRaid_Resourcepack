@@ -20,6 +20,12 @@
       }
     },
     {
+      "model": "pillow:item/iron_boots_gold_block_trim",
+      "predicate": {
+        "trim_type": 0.17
+      }
+    },
+    {
       "model": "minecraft:item/iron_boots_iron_darker_trim",
       "predicate": {
         "trim_type": 0.2

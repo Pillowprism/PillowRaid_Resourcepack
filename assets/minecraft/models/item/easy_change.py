@@ -20,6 +20,12 @@ MainString = '''{
       }
     },
     {
+      "model": "pillow:item/ARMOR_PARTS_gold_block_trim",
+      "predicate": {
+        "trim_type": 0.17
+      }
+    },
+    {
       "model": "minecraft:item/ARMOR_PARTS_iron_trim",
       "predicate": {
         "trim_type": 0.2

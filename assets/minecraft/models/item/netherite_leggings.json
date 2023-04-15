@@ -20,6 +20,12 @@
       }
     },
     {
+      "model": "pillow:item/netherite_leggings_gold_block_trim",
+      "predicate": {
+        "trim_type": 0.17
+      }
+    },
+    {
       "model": "minecraft:item/netherite_leggings_iron_trim",
       "predicate": {
         "trim_type": 0.2

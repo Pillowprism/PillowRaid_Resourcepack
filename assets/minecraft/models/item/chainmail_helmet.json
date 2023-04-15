@@ -20,6 +20,12 @@
       }
     },
     {
+      "model": "pillow:item/chainmail_helmet_gold_block_trim",
+      "predicate": {
+        "trim_type": 0.17
+      }
+    },
+    {
       "model": "minecraft:item/chainmail_helmet_iron_trim",
       "predicate": {
         "trim_type": 0.2

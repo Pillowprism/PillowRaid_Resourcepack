@@ -8,7 +8,7 @@ MainString = '''{
 
 Armors = ["chainmail", "diamond", "golden", "iron", "leather", "netherite"]
 Armor_Parts = ["boots", "chestplate", "helmet", "leggings"]
-Materials = ["white_stained_glass", "coal_block"]
+Materials = ["white_stained_glass", "coal_block", "gold_block"]
 
 
 def change(A, B, C):
