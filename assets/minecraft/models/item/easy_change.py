@@ -26,6 +26,12 @@ MainString = '''{
       }
     },
     {
+      "model": "pillow:item/ARMOR_PARTS_ender_pearl_trim",
+      "predicate": {
+        "trim_type": 0.18
+      }
+    },
+    {
       "model": "minecraft:item/ARMOR_PARTS_iron_trim",
       "predicate": {
         "trim_type": 0.2

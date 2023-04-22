@@ -26,6 +26,12 @@
       }
     },
     {
+      "model": "pillow:item/iron_leggings_ender_pearl_trim",
+      "predicate": {
+        "trim_type": 0.18
+      }
+    },
+    {
       "model": "minecraft:item/iron_leggings_iron_darker_trim",
       "predicate": {
         "trim_type": 0.2

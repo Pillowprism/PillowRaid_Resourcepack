@@ -26,6 +26,12 @@
       }
     },
     {
+      "model": "pillow:item/golden_boots_ender_pearl_trim",
+      "predicate": {
+        "trim_type": 0.18
+      }
+    },
+    {
       "model": "minecraft:item/golden_boots_iron_trim",
       "predicate": {
         "trim_type": 0.2

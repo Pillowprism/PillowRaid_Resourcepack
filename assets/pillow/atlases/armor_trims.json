@@ -6,7 +6,8 @@
             "permutations": {
                 "white_stained_glass": "pillow:trims/color_palettes/white_stained_glass",
                 "coal_block": "pillow:trims/color_palettes/coal_block",
-                "gold_block": "pillow:trims/color_palettes/gold_block"
+                "gold_block": "pillow:trims/color_palettes/gold_block",
+                "ender_pearl": "pillow:trims/color_palettes/ender_pearl"
             }
         }
     ]
